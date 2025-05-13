@@ -1,2 +1,2 @@
 <?php
-echo "Hola esto es una prueba";
+echo "<h1>Hola esto es una prueba</h1>";
